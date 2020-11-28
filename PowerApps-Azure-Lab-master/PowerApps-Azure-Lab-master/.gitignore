@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/ProductListAPI
+/src/packages
+/src/ProductListAPI/bin
+/src/ProductListAPI/obj
+/src/ProductListAPI/Properties/PublishProfiles
